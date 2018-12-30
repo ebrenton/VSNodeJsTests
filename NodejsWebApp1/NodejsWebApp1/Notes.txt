@@ -1,0 +1,9 @@
+Adding modules/packages (with VS as IDE)
+=======================
+in VS, right-click "npm" folder and select install new npm Packages
+in dialog, select package(s) and install
+publish "package.json" to server
+on server, in working dir. use the command "npm install"
+
+
+
